@@ -1,0 +1,22 @@
+{
+    "name": "DotRecast.Recast.Toolset",
+    "rootNamespace": "",
+    "references": [
+        "GUID:553838e517c9de04da97467858687a43",
+        "GUID:3e02d86857b20d444a3b147255cbbffc",
+        "GUID:3a225797f39818d4faf286f106c46594",
+        "GUID:d3a34d1adacbf3446a0aa267f839af93",
+        "GUID:b6bda6a85ea70c94ab0ebbd4c4e907f0",
+        "GUID:1d0634bfdedf552499947bfefa0439cf",
+        "GUID:88eb103d3af9f3e49a929d9452ee9ae0"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
